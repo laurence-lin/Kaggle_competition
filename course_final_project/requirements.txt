@@ -1,0 +1,5 @@
+tensorflow v2.3
+lightgbm
+numpy 
+pandas
+scikit-learn
